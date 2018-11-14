@@ -1,0 +1,43 @@
+G:\MetodosNumericos\Controles\bin\Debug\Controles.dll
+G:\MetodosNumericos\Controles\bin\Debug\Controles.pdb
+G:\MetodosNumericos\Controles\obj\Debug\ResolveAssemblyReference.cache
+G:\MetodosNumericos\Controles\obj\Debug\MatrixIn.baml
+G:\MetodosNumericos\Controles\obj\Debug\MatrixIn.g.cs
+G:\MetodosNumericos\Controles\obj\Debug\Controles_MarkupCompile.cache
+G:\MetodosNumericos\Controles\obj\Debug\Controles.g.resources
+G:\MetodosNumericos\Controles\obj\Debug\Controles.Properties.Resources.resources
+G:\MetodosNumericos\Controles\obj\Debug\GenerateResource.read.1.tlog
+G:\MetodosNumericos\Controles\obj\Debug\GenerateResource.write.1.tlog
+G:\MetodosNumericos\Controles\obj\Debug\Controles.dll
+G:\MetodosNumericos\Controles\obj\Debug\Controles.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\bin\Debug\Controles.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\bin\Debug\Controles.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\obj\Debug\MatrixIn.baml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\obj\Debug\MatrixIn.g.cs
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\obj\Debug\Controles_MarkupCompile.cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\obj\Debug\Controles.g.resources
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\obj\Debug\Controles.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\Controles\obj\Debug\Controles.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\bin\Debug\Controles.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\bin\Debug\Controles.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\obj\Debug\MatrixIn.baml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\obj\Debug\MatrixIn.g.cs
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\obj\Debug\Controles_MarkupCompile.cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\obj\Debug\Controles.g.resources
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\obj\Debug\Controles.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\Controles\obj\Debug\Controles.pdb
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\bin\Debug\Controles.dll
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\bin\Debug\Controles.pdb
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\MatrixIn.baml
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\MatrixIn.g.cs
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\Controles_MarkupCompile.cache
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\Controles.g.resources
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\Controles.dll
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\Controles\obj\Debug\Controles.pdb

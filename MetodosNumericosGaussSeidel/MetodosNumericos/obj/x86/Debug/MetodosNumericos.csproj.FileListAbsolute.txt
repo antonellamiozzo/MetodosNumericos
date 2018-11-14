@@ -1,0 +1,112 @@
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.exe
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.pdb
+G:\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.exe
+G:\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.pdb
+G:\MetodosNumericos\MetodosNumericos\bin\Debug\Controles.dll
+G:\MetodosNumericos\MetodosNumericos\bin\Debug\Controles.pdb
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MainWindow.baml
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MainWindow.g.cs
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\App.g.cs
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos_MarkupCompile.cache
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.g.resources
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.Properties.Resources.resources
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\MetodosNumericos\MetodosNumericos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.exe
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\MetodosNumericos.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\Controles.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\Controles.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.csprojResolveAssemblyReference.cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MainWindow.baml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\Simple Styles.baml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\App.baml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\App.g.cs
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos_MarkupCompile.cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.g.resources
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.Properties.Resources.resources
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.csproj.GenerateResource.Cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.exe
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericos\MetodosNumericos\obj\x86\Debug\MetodosNumericos.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MetodosNumericos.exe
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MetodosNumericos.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\MetodosNumericos.exe
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\MetodosNumericos.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\Controles.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\Controles.pdb
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MetodosNumericos.csprojResolveAssemblyReference.cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MainWindow.baml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\Simple Styles.baml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\App.baml
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\App.g.cs
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MetodosNumericos_MarkupCompile.cache
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MetodosNumericos.g.resources
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MetodosNumericos.Properties.Resources.resources
+C:\Users\Carmelo\Documents\Visual Studio 2010\Projects\MetodosNumericosGauss\MetodosNumericos\obj\x86\Debug\MetodosNumericos.csproj.GenerateResource.Cache
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\bin\Debug\MetodosNumericos.exe
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\bin\Debug\MetodosNumericos.pdb
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\bin\Debug\Controles.dll
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\bin\Debug\Controles.pdb
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MetodosNumericos.csprojResolveAssemblyReference.cache
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MainWindow.baml
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\Simple Styles.baml
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\App.baml
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MainWindow.g.cs
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\App.g.cs
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MetodosNumericos_MarkupCompile.cache
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MetodosNumericos.g.resources
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MetodosNumericos.Properties.Resources.resources
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MetodosNumericos.csproj.GenerateResource.Cache
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MetodosNumericos.csproj.CoreCompileInputs.cache
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MetodosNumericos.exe
+C:\Users\antonella\Documents\Bluetooth Folder\MetodosNumericosGaussSeidel\MetodosNumericosGaussSeidel\MetodosNumericos\obj\x86\Debug\MetodosNumericos.pdb
